@@ -1,0 +1,6 @@
+venv
+tts_downloads
+.history
+.qodo
+__pycache__
+main.cpp
